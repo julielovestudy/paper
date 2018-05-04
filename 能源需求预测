@@ -35,7 +35,8 @@
 外准则——在自组织数据挖掘中，外准则是这些特定要求的数学描述，它能从简单的候选模型类中选出“最优的”模型。
        GMDH有一个外准则体系，可以根据不同的建模目的从中选择不同的外准则，还可以根据需要构造新的外准则。
 
-基于 ＧＭＤＨ 的混合模型 ＧＨＦＭ 建模流程图
+
+！[基于 ＧＭＤＨ 的混合模型 ＧＨＦＭ 建模流程图]https://github.com/julielovestudy/paper/blob/master/%E5%9F%BA%E4%BA%8E%20%EF%BC%A7%EF%BC%AD%EF%BC%A4%EF%BC%A8%20%E7%9A%84%E6%B7%B7%E5%90%88%E6%A8%A1%E5%9E%8B%20%EF%BC%A7%EF%BC%A8%EF%BC%A6%EF%BC%AD%20%E5%BB%BA%E6%A8%A1%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg?raw=true
 
 http://i2.bvimg.com/644342/32b02cbfba184e39.png
 
