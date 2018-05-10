@@ -1,4 +1,5 @@
-****************简单易学的机器学习算法——集成方法(Ensemble Method)    https://blog.csdn.net/google19890102/article/details/46507387
+****************简单易学的机器学习算法——集成方法(Ensemble Method)    
+https://blog.csdn.net/google19890102/article/details/46507387
 **********************************************************************************
 一、集成学习方法的思想
 集成学习方法是指组合多个模型，以获得更好的效果，使集成的模型具有更强的泛化能力。对于多个模型，如何组合这些模型，主要有以下几种不同的方法：
@@ -36,5 +37,7 @@
 
 
 
-几种集成预测模型及其应用 http://www.docin.com/p-919028232.html
-集成模型的五个基础问题 https://wenku.baidu.com/view/51055973aeaad1f347933f76.html
+几种集成预测模型及其应用 
+http://www.docin.com/p-919028232.html
+集成模型的五个基础问题 
+https://wenku.baidu.com/view/51055973aeaad1f347933f76.html
